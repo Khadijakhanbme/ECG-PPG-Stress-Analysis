@@ -54,7 +54,6 @@ The **1-back condition** was intentionally excluded.
   - Photoplethysmogram (**PPG**)  
 - **Labels Used:**  
   - Cognitive workload labels corresponding to **0-back** and **2-back** tasks only.
-  - 
 ---
 
 ## Methodology
@@ -62,6 +61,7 @@ The **1-back condition** was intentionally excluded.
 ### Signal Preprocessing
 - Noise reduction and filtering applied **independently** to ECG and PPG
 - Signal morphology preserved to retain **autonomic and cardiovascular dynamics**
+  
 
 ### Segmentation
 - **Fixed-length window segmentation**
